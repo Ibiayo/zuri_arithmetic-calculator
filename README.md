@@ -1,0 +1,1 @@
+This task is to code a simple arithmetic calculator using only JavaScript
